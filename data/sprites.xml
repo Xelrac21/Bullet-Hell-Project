@@ -1,0 +1,9 @@
+<a n="sprites">
+	<f f="bigRed" tx="0" ty="0" tw="64" th="64"/>
+	<f f="smallRed" tx="0" ty="64" tw="16" th="16"/>
+	<f f="bigGreen" tx="64" ty="0" tw="64" th="64"/>
+	<f f="bigBlue" tx="128" ty="0" tw="64" th="64"/>
+	<f f="smallPurple" tx="0" ty="80" tw="8" th="8"/>
+</a>
+
+
