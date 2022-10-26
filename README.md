@@ -1,5 +1,5 @@
 # Bullet-Hell-Project
-College project featuring a 2d bullet hell type of game
+College project featuring a 2d bullet hell type of game. One of my very first c++ full projects so it's very crude and not well written.
 
 - Worked on this back in 2016 as a final college project with Stephen Yap and Ryan Reisen Tiongson Cua
 - Crude and has memory leaks
